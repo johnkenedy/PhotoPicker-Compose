@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo Picker Compose</string>
+    <string name="pick_photo">Pick one photo</string>
+    <string name="pick_multiple_photos">Pick multiple photos</string>
+</resources>
